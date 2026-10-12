@@ -1,5 +1,7 @@
 # Trailmark – Travel Booking SPA (React + Vite)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8777f73-88d2-43f4-ac0a-33a5c09a7b68/deploy-status)](https://app.netlify.com/projects/react-final-project-stackly/deploys)
+
 ## Run
 ```
 npm install
